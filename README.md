@@ -1,6 +1,6 @@
 # 🧑‍💼 Employee Management System
 
-This is a simple **Employee Management System** web application built using **Java EE (J2EE)**, **Servlets**, **JDBC**, and **MySQL**. The system allows an administrator to add employee details to a database via a styled HTML form and persist the data using JDBC.
+This is a simple **Employee Management System** web application built using **J2EE**, **Servlets**, **JDBC**, and **MySQL**. The system allows an administrator to add employee details to a database via a styled HTML form and persist the data using JDBC.
 
 ---
 
